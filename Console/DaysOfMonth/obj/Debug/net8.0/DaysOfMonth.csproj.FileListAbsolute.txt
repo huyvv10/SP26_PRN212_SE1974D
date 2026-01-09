@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\bin\Debug\net8.0\DaysOfMonth.exe
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\bin\Debug\net8.0\DaysOfMonth.deps.json
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\bin\Debug\net8.0\DaysOfMonth.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\bin\Debug\net8.0\DaysOfMonth.dll
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\bin\Debug\net8.0\DaysOfMonth.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.dll
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\refint\DaysOfMonth.dll
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\DaysOfMonth.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\SE1974\DaysOfMonth\obj\Debug\net8.0\ref\DaysOfMonth.dll

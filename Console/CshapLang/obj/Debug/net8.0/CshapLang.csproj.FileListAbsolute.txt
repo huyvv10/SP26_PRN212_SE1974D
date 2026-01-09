@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\bin\Debug\net8.0\CshapLang.exe
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\bin\Debug\net8.0\CshapLang.deps.json
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\bin\Debug\net8.0\CshapLang.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\bin\Debug\net8.0\CshapLang.dll
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\bin\Debug\net8.0\CshapLang.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.dll
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\refint\CshapLang.dll
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\CshapLang.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\SE1974\CshapLang\obj\Debug\net8.0\ref\CshapLang.dll

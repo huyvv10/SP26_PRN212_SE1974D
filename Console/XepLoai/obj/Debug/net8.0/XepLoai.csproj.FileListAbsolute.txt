@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\bin\Debug\net8.0\XepLoai.exe
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\bin\Debug\net8.0\XepLoai.deps.json
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\bin\Debug\net8.0\XepLoai.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\bin\Debug\net8.0\XepLoai.dll
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\bin\Debug\net8.0\XepLoai.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.dll
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\refint\XepLoai.dll
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\XepLoai.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\SE1974\XepLoai\obj\Debug\net8.0\ref\XepLoai.dll

@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\bin\Debug\net8.0\Loops.exe
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\bin\Debug\net8.0\Loops.dll
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\bin\Debug\net8.0\Loops.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.dll
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\SE1974\Loops\obj\Debug\net8.0\ref\Loops.dll

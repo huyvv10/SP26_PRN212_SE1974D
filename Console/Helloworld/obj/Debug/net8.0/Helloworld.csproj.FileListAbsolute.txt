@@ -1,0 +1,14 @@
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\bin\Debug\net8.0\Helloworld.exe
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\bin\Debug\net8.0\Helloworld.deps.json
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\bin\Debug\net8.0\Helloworld.runtimeconfig.json
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\bin\Debug\net8.0\Helloworld.dll
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\bin\Debug\net8.0\Helloworld.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.dll
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\refint\Helloworld.dll
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.pdb
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\Console\SE1974\Helloworld\obj\Debug\net8.0\ref\Helloworld.dll
