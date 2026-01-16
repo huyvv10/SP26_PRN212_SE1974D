@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArray", "MyArray.csproj", "{F279A905-2BE8-4849-9708-4A8ADBB66041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceVariable", "..\ReferenceVariable\ReferenceVariable.csproj", "{29923918-96A1-42CA-A544-01A629D34FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplesVariable", "..\TuplesVariable\TuplesVariable.csproj", "{3862B31C-FBB5-4B79-B6A0-4043BC560B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F279A905-2BE8-4849-9708-4A8ADBB66041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F279A905-2BE8-4849-9708-4A8ADBB66041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F279A905-2BE8-4849-9708-4A8ADBB66041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F279A905-2BE8-4849-9708-4A8ADBB66041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29923918-96A1-42CA-A544-01A629D34FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29923918-96A1-42CA-A544-01A629D34FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29923918-96A1-42CA-A544-01A629D34FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29923918-96A1-42CA-A544-01A629D34FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3862B31C-FBB5-4B79-B6A0-4043BC560B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3862B31C-FBB5-4B79-B6A0-4043BC560B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3862B31C-FBB5-4B79-B6A0-4043BC560B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3862B31C-FBB5-4B79-B6A0-4043BC560B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

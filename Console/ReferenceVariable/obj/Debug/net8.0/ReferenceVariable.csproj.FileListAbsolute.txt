@@ -1,0 +1,15 @@
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\bin\Debug\net8.0\ReferenceVariable.exe
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\bin\Debug\net8.0\ReferenceVariable.deps.json
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\bin\Debug\net8.0\ReferenceVariable.runtimeconfig.json
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\bin\Debug\net8.0\ReferenceVariable.dll
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\bin\Debug\net8.0\ReferenceVariable.pdb
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.sourcelink.json
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.dll
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\refint\ReferenceVariable.dll
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.pdb
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ReferenceVariable.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\Console\ReferenceVariable\obj\Debug\net8.0\ref\ReferenceVariable.dll
