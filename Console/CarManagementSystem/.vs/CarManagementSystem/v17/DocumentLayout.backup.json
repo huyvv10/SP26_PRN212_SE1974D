@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\carmanagementsystem\\gascar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|solutionrelative:gascar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\carmanagementsystem\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|solutionrelative:carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\carmanagementsystem\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|solutionrelative:electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\carmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|d:\\coding\\prn212\\sp26\\console\\se1974\\carmanagementsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E9DC32-3709-4AE9-A067-6E77E878C2E2}|CarManagementSystem.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarManagement.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\CarManagement.cs",
+              "RelativeDocumentMoniker": "CarManagement.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\CarManagement.cs",
+              "RelativeToolTip": "CarManagement.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:42:13.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GasCar.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\GasCar.cs",
+              "RelativeDocumentMoniker": "GasCar.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\GasCar.cs",
+              "RelativeToolTip": "GasCar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:05:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "ElectricCar.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\ElectricCar.cs",
+              "RelativeToolTip": "ElectricCar.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:27:30.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:21:00.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\SP26\\Console\\SE1974\\CarManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:19:38.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
