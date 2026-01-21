@@ -61,9 +61,9 @@ internal class Program
         Console.WriteLine("6. Search car by price in range");
         Console.WriteLine("7. Sort car list by price");
         Console.WriteLine("8. Sort car list by name");
-        Console.WriteLine("9. Edit car by Id");
-        Console.WriteLine("10. Count number of car in the list");
-        Console.WriteLine("11. Calculate the total cost");
+        Console.WriteLine("9. Edit car info by Id");
+        Console.WriteLine("10. Count number of cars in the list");
+        Console.WriteLine("11. Calculate the total price of all cars");
         Console.WriteLine("0. Quit");
         Console.Write("Your selection: ");
     }
