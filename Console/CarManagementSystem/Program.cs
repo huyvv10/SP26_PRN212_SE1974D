@@ -7,7 +7,7 @@ internal class Program
         int sel;
         CarManagement myCar = new CarManagement();
         myCar.Init();
-
+        string id="";
         do
         {
             Menu();
@@ -20,6 +20,27 @@ internal class Program
                     break;
                 case 2:
                     myCar.DisplayCarList(); break;
+                case 3:
+                    Console.Write("Input car Id to remove: ");
+                    id = Console.ReadLine();
+                    myCar.removeCarById(id);
+                    myCar.DisplayCarList();
+                    break;
+                case 4:
+                    Console.Write("Input searching name: ");
+                    string name = Console.ReadLine();
+                    myCar.searchCarByName(name);
+                    break;
+                case 5:
+                    Console.Write("Input car Id to search: ");
+                    id = Console.ReadLine();
+                    myCar.searchCarById(id);
+                    break;
+                case 7:
+                    Console.WriteLine("Sort by Price in ascending order:");
+                    myCar.SortByPriceAsc();
+                    myCar.DisplayCarList();
+                    break;
                 case 0:
                     break;
                 default:
@@ -38,7 +59,11 @@ internal class Program
         Console.WriteLine("4. Search car by name");
         Console.WriteLine("5. Search car by Id");
         Console.WriteLine("6. Search car by price in range");
-        Console.WriteLine("7. Sort car list by Price");
+        Console.WriteLine("7. Sort car list by price");
+        Console.WriteLine("8. Sort car list by name");
+        Console.WriteLine("9. Edit car by Id");
+        Console.WriteLine("10. Count number of car in the list");
+        Console.WriteLine("11. Calculate the total cost");
         Console.WriteLine("0. Quit");
         Console.Write("Your selection: ");
     }

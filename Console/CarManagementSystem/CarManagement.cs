@@ -9,11 +9,19 @@ using System.Xml.Linq;
 
 namespace CarManagementSystem
 {
-       public class CarManagement
+    public class SortPriceAsc : IComparer<Car>
+    {
+        public int Compare(Car x, Car y)
+        {
+            return x.Price.CompareTo(y.Price);
+        }
+    }
+    public class CarManagement
     {
         public List<Car> carsList;
 
-        public CarManagement() {
+        public CarManagement()
+        {
             carsList = new List<Car>();
         }
 
@@ -48,11 +56,12 @@ namespace CarManagementSystem
             if (type == 1)
             {
                 car = new ElectricCar();
-            } 
+            }
             else if (type == 2)
             {
                 car = new GasCar();
-            } else
+            }
+            else
             {
                 return;
             }
@@ -60,7 +69,61 @@ namespace CarManagementSystem
             carsList.Add(car);
         }
 
- 
+        public void removeCarById(string id)
+        {
+            bool found = false;
+            foreach (Car car in carsList)
+            {
+                if (car.Id.Equals(id))
+                {
+                    carsList.Remove(car);
+                    found = true;
+                    break;
+                }
+            }
+            if (!found)
+            {
+                Console.WriteLine($"Does not exist car Id as {id} in the list");
+            }
+        }
+
+        public void searchCarByName(string name)
+        {
+            Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-8} {"Price",-10} {"Fuel",-15} {"Tax",15}");
+            Console.WriteLine($"{"--",-5} {"--------",-20} {"-----",-8} {"-----",-10} {"----",-15} {"---",15}");
+            bool found = false;
+            foreach (Car car in carsList)
+            {
+                if (car.Name.Contains(name))
+                {
+                    found = true;
+                    car.Display();
+                }
+            }
+            if (!found)
+            {
+                Console.WriteLine($"Find not found {name} in the list");
+            }
+        }
+
+        public void searchCarById(string Id)
+        {
+            Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-8} {"Price",-10} {"Fuel",-15} {"Tax",15}");
+            Console.WriteLine($"{"--",-5} {"--------",-20} {"-----",-8} {"-----",-10} {"----",-15} {"---",15}");
+            foreach (Car car in carsList)
+            {
+                if (car.Id != null && car.Id.Equals(Id))
+                {
+                    car.Display();
+                }
+            }
+        }
+
+        public void SortByPriceAsc()
+        {
+            carsList.Sort(new SortPriceAsc());
+        }
+
         public void DisplayCarList()
         {
             Console.WriteLine($"{"Id",-5} {"Car Name",-20} {"Color",-8} {"Price",-10} {"Fuel",-15} {"Tax",15}");

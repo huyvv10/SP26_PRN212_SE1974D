@@ -31,7 +31,7 @@ namespace CarManagementSystem
 
         public override void Display()
         {
-            Console.WriteLine($"{Id,-5} {Name,-20} {Color,-8} {Price,-10} {Fuel+ " (lit/100km)",-15} {CalculateTax(), 15}");
+            Console.WriteLine($"{Id,-5} {Name,-20} {Color,-8} {Price,-10} {Fuel+ " (lit/100km)",-15} {CalculateTax(), 15:F2}");
         }
         public override double CalculateTax()
         {
