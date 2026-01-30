@@ -1,0 +1,17 @@
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\bin\Debug\net8.0-windows\WinFormsStudentMan.exe
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\bin\Debug\net8.0-windows\WinFormsStudentMan.deps.json
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\bin\Debug\net8.0-windows\WinFormsStudentMan.runtimeconfig.json
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\bin\Debug\net8.0-windows\WinFormsStudentMan.dll
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\bin\Debug\net8.0-windows\WinFormsStudentMan.pdb
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.Form1.resources
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.csproj.GenerateResource.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.AssemblyInfoInputs.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.AssemblyInfo.cs
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.sourcelink.json
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.dll
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\refint\WinFormsStudentMan.dll
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.pdb
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\WinFormsStudentMan.genruntimeconfig.cache
+D:\Coding\PRN212\SP26\SP26_PRN212_SE1974\WinForm\WinFormsStudentMan\obj\Debug\net8.0-windows\ref\WinFormsStudentMan.dll
