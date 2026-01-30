@@ -43,14 +43,14 @@ internal class Program
         List<int> NumList = new List<int> { 17, 12, 11, 4, 9, 6, 8 };
         var evenNum = from i
                       in NumList
-                      where i%2==0
+                      where i % 2 == 0
                       select i;
         foreach (var e in evenNum)
         {
-            Console.Write(e+ " ");
+            Console.Write(e + " ");
         }
 
-        List<string> strings = new List<string>() {"Cong", "Hoa", "Xa", "Hoi", "Chu", "Nghia" };
+        List<string> strings = new List<string>() { "Cong", "Hoa", "Xa", "Hoi", "Chu", "Nghia" };
         var ss = from s in strings
                  where s.Contains("H")
                  select s;
@@ -64,8 +64,8 @@ internal class Program
         //1. WHERE (filter)
         //Get all student with GPA>=3.5
         Console.WriteLine("\n\n1. Get all student with GPA>=3.5");
-        var s1 = students.Where (s => s.GPA>=3.5).ToList();
-        Console.WriteLine($"{"Id",-5} {"Name",-10} {"Age",-5} {"Gender",-7} {"DepartmentId",-13} {"GPA",5}");        Console.WriteLine($"{"--",-5} {"----",-10} {"---",-5} {"------",-7} {"----------",-13} {"---",5}");
+        var s1 = students.Where(s => s.GPA >= 3.5).ToList();
+        Console.WriteLine($"{"Id",-5} {"Name",-10} {"Age",-5} {"Gender",-7} {"DepartmentId",-13} {"GPA",5}"); Console.WriteLine($"{"--",-5} {"----",-10} {"---",-5} {"------",-7} {"----------",-13} {"---",5}");
         foreach (var e in s1)
         {
             e.displayStudent();
@@ -73,7 +73,7 @@ internal class Program
 
         //Get all Female students
         Console.WriteLine("\n2. Get all female students");
-        var s2 = students.Where(s => s.Gender=="Female").ToList();
+        var s2 = students.Where(s => s.Gender == "Female").ToList();
         foreach (var e in s2)
         {
             e.displayStudent();
@@ -81,8 +81,8 @@ internal class Program
 
         //Get all male with GPA>=3.5
         Console.WriteLine("\n3. Get all male with GPA>=3.5");
-        var s3 = students.Where(s => s.Gender == "Male" 
-                                && s.GPA>=3.5)
+        var s3 = students.Where(s => s.Gender == "Male"
+                                && s.GPA >= 3.5)
                          .ToList();
         foreach (var e in s3)
         {
@@ -92,7 +92,7 @@ internal class Program
         //2. SELECT
         Console.WriteLine("\n4. Get all student names");
         var s4 = students.Select(s => s.Name).ToList();
-        foreach(var e in s4)
+        foreach (var e in s4)
         {
             Console.Write($"{e} ");
         }
@@ -111,7 +111,7 @@ internal class Program
         Console.WriteLine();
 
         Console.WriteLine("\n6. Get Id, Name, GPA");
-        var s6 = students.Select(s => new {s.Id, s.Name, s.GPA})
+        var s6 = students.Select(s => new { s.Id, s.Name, s.GPA })
                         .ToList();
 
         foreach (var e in s6)
@@ -159,14 +159,16 @@ internal class Program
 
         //7. Join
         var s12 = students.Join(departments,
-            s => s.DepartmentId,   
+            s => s.DepartmentId,
             d => d.Id,
-            (s,d) => new { s.Name, DepartmentName= d.Name }).ToList();
+            (s, d) => new { s.Name, DepartmentName = d.Name }).ToList();
 
-        foreach(var e in s12)
+        foreach (var e in s12)
         {
             Console.WriteLine($"{e.Name,-5} {e.DepartmentName,30}");
         }
+
+
 
     }
 
